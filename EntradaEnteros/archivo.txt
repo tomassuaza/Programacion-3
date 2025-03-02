@@ -1,0 +1,16 @@
+    [31merror:[0m undefined function ingresar/2 (expected EntradaEnteros to define such a function or for it to be imported, but none are available)
+    │
+  4 │       |> ingresar( :entero)
+    │ [31m         ^^^^^^^^[0m
+    │
+    └─ EntradaEnteros.exs:4:10: EntradaEnteros.main/0
+
+    [31merror:[0m undefined function ingresar/2 (expected EntradaEnteros to define such a function or for it to be imported, but none are available)
+    │
+  7 │       |> ingresar( :entero)
+    │ [31m         ^^^^^^^^[0m
+    │
+    └─ EntradaEnteros.exs:7:10: EntradaEnteros.main/0
+
+** (CompileError) EntradaEnteros.exs: cannot compile module EntradaEnteros (errors have been logged)
+
